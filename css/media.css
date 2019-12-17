@@ -1,0 +1,129 @@
+@media screen and (max-width: 1200px){
+	#absleft{
+		width: 100%;
+	}
+	#absright{
+		width: 100%;
+		text-align: center;
+	}
+	#absright img{
+		width: 100%;
+	}
+	#trainleft{
+		width: 100%;
+	}
+	#trainright{
+		width: 100%;
+	}
+	.memberCont{
+		width: 28%;
+		min-height: 504px;
+	}
+	#examCont img{
+		width: 48%;
+	}
+}
+@media screen and (max-width: 880px){
+	#logointro{
+		top: 57%;
+	}
+	.memberCont{
+		width: 45%;
+		min-height: 529px;
+		margin-bottom: 20px;
+	}
+}
+@media screen and (max-width: 500px){
+	#logointro{
+		top: 60%;
+	}
+}
+@media screen and (max-width: 680px){
+	#examCont img{
+		width: 100%;
+	}
+}
+@media screen and (max-width: 640px){
+	#logo{
+		width: 120px;
+	}
+	#logointro{
+		width: 123px;
+	}
+	.serCont{
+		width: 47.978685%;
+	}
+	#foonav{
+		width: 100%;
+	}
+	.kind2{
+		width: 168px;
+		height: 123px;
+		float: left;
+	}
+	.memberCont{
+		width: 100%;
+		margin-bottom: 20px;
+	}
+	#content #trainImg{
+		width: 70%;
+	}
+	#wechat{
+		width: 80%;
+	}
+	#weleft{
+		width: 100%;
+	}
+	#weleft img{
+		width: 20%;
+	}
+	#weright{
+		width: 100%;
+	}
+	#weright ul{
+		text-align: center;
+	}
+	#top{
+		display: none;
+	}
+	
+}
+@media screen and (max-width: 400px){
+	#logo,#logointro{
+		left: 36.5%;
+	}
+	#logointro{
+		top: 67%;
+	}
+	.serCont{
+		width: 100%;
+	}
+}
+@media screen and (max-width: 390px){
+	.kind2{
+		height: 100%;
+	}
+	#adHead{
+		font-size: 23px;
+	}
+}
+@media screen and (max-width: 320px){
+	#logo,#logointro{
+		left: 38.5%;
+	}
+	#logo{
+		width: 72px;
+	}
+	#logointro{
+		width: 73px;
+	}
+	#logointro{
+		top: 60%;
+	}
+	#Revit tr td,#RevitMEP tr td,#Navis tr td,#teacher tr td{
+		font-size: 12px;
+	}
+	#Revit tr th,#RevitMEP tr th,#Navis tr th,#teacher tr th{
+		font-size: 15px;
+	}
+}

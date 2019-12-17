@@ -1,0 +1,157 @@
+#content{
+	width: 100%;
+	text-align: center;
+}
+#content>img{
+	margin-top: 75px;
+	width: 38.140556%;
+}
+#adHead{
+	font-size: 28px;
+	color: #907427;
+	margin: 30px 0 20px;
+}
+#adCont{
+	font-size: 15px;
+	color: #353535;
+}
+#tableCont{
+	margin-top: 77px;
+}
+#Revit{
+	width: 80%;
+	margin:0 auto; 
+	border: 1px solid #dadada;
+	margin-bottom: 35px;
+}
+#Revit th{
+	font-size: 20px;
+	text-align: left;
+	padding-left: 33px;
+	height: 50px;
+	line-height: 50px;
+	color: #fff;
+	background: #a2a2a2;
+	border: 1px solid #dadada;
+}
+#Revit tr td{
+	color: #646464;
+	border: 1px solid #dadada;
+	font-size: 15px;
+}
+#Revit tr td:first-child{
+	width: 21.314387%;
+	height: 79px;
+	color: #c2c2c2;
+	background: #f2f2f2;
+}
+#RevitMEP{
+	width: 80%;
+	margin:0 auto; 
+	border: 1px solid #dadada;
+	margin-bottom: 35px;
+}
+#RevitMEP th{
+	font-size: 20px;
+	text-align: left;
+	padding-left: 33px;
+	height: 50px;
+	line-height: 50px;
+	color: #fff;
+	background: #a2a2a2;
+	border: 1px solid #dadada;
+}
+#RevitMEP tr td{
+	width: 78.685612%;
+	color: #646464;
+	border: 1px solid #dadada;
+	font-size: 15px;
+}
+#RevitMEP tr td:first-child{
+	width: 21.314387%;
+	height: 79px;
+	color: #c2c2c2;
+	background: #f2f2f2;
+}
+#Navis{
+	width: 80%;
+	margin:0 auto; 
+	border: 1px solid #dadada;
+	margin-bottom: 35px;
+}
+#Navis th{
+	font-size: 20px;
+	text-align: left;
+	padding-left: 33px;
+	height: 50px;
+	line-height: 50px;
+	color: #fff;
+	background: #a2a2a2;
+	border: 1px solid #dadada;
+}
+#Navis tr td{
+	width: 78.685612%;
+	color: #646464;
+	border: 1px solid #dadada;
+	font-size: 15px;
+}
+#Navis tr td:first-child{
+	width: 21.314387%;
+	height: 79px;
+	color: #c2c2c2;
+	background: #f2f2f2;
+}
+#teacher{
+	width: 80%;
+	margin:0 auto; 
+	border: 1px solid #dadada;
+	margin-bottom: 35px;
+}
+#teacher th{
+	font-size: 20px;
+	text-align: left;
+	padding-left: 33px;
+	height: 50px;
+	line-height: 50px;
+	color: #fff;
+	background: #a2a2a2;
+	border: 1px solid #dadada;
+}
+#teacher tr td{
+	width: 78.685612%;
+	color: #646464;
+	border: 1px solid #dadada;
+	font-size: 15px;
+}
+#teacher tr td:first-child{
+	width: 21.314387%;
+	height: 79px;
+	color: #c2c2c2;
+	background: #f2f2f2;
+}
+#wechat{
+	/*width: 41%;*/
+	width: 440px;
+	/*max-width: 465px;*/
+	margin: auto;
+}
+#weleft{
+	float: left;
+	width: 20.257826%;
+}
+#weright{
+	float: left;
+	width: 79.742173%;
+
+	text-align: left;
+	padding-top: 20px;
+}
+#weleft img{
+	width: 100%;
+}
+#weright ul li{
+	font-size: 20px;
+}
+#weright ul li:last-child{
+	font-size: 12px;
+}

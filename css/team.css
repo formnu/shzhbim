@@ -1,0 +1,48 @@
+#content{
+	width: 100%;
+}
+#member{
+	width: 90%;
+	max-width: 1126px;
+	margin: auto;
+	margin-top:60px;
+	margin-bottom: 73px;
+	/*padding: 5% 0 10% 9%;*/
+}
+#teacher{
+	/*margin: 4% 0 5% 0;*/
+	margin-bottom: 55px;
+}
+#teacher>h3{
+	margin: 60px 0 20px 0;
+	color: #353535;
+}
+#technique>h3{
+	margin: 60px 0 20px 0;
+	color: #353535;
+}
+.memberCont{
+	float: left;
+	width: 22.445825%;
+	min-height: 471px;
+	background-color: #fff;
+	margin-right: 23px;
+	margin-bottom: 20px;
+	border:1px solid #eae7e0 ;
+}
+.memberCont img{
+	width: 100%;
+}
+.memberCont h2{
+	margin: 20px 0 12px 0;
+	padding-left: 8px;
+}
+.memberCont h3{
+	padding-left: 8px;
+	margin-bottom: 12px;
+}
+.memberCont p{
+	color: #646464;
+	line-height: 20px;
+	padding: 0 15px 10px 8px;
+}

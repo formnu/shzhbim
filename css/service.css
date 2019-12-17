@@ -1,0 +1,188 @@
+html, body {
+    position: relative;
+    height: 100%;
+}
+body {
+    background: #eee;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color:#000;
+    margin: 0;
+    padding: 0;
+}
+#wrap{
+	height: 100%;
+}
+.swiper-container {
+    width: 100%;
+    height: 100%;
+}
+.swiper-slide {
+    font-size: 18px;
+    background: #fff;
+}
+#logo{
+    top: 130%;
+}
+#logointro{
+    top: 200%;
+}
+#nav{
+    padding-top: 1%;
+    position: relative;
+}
+
+#navul{
+    /*width: 55%;*/
+    float: right;
+    margin-top: 1%;
+    position: absolute;
+    top: 20px;
+    right: 100px;
+    font-size: 12px;
+}
+#navul li{
+    float: left;
+    /*font-weight: bold;*/
+
+}
+#nav li a{
+    color: #353535;
+}
+#content{
+    position: relative;
+}
+#cont1 h2{
+    vertical-align: middle;
+    margin: 5% 0 0 10%;
+}
+#cont1 h2 img{
+    margin-right: 20px;
+}
+#cont1 p{
+    width: 30%;
+    margin: 2% 0 0 10%;
+}
+.photo{
+    margin: 2% 0 0 10%;
+}
+#tower1{
+    position: absolute;
+    right: 18.301610%;
+    bottom: 0;
+}
+#content2{
+    width: 100%;
+    height: 100%;
+    background-color: #f7f8f8;
+    opacity: 0.8;
+    position: relative;
+}
+#tower1_1{
+    position: absolute;
+    top: 0;
+    right:13%;
+}
+#cont2 h2{
+    vertical-align: middle;
+    padding: 10% 0 0 10%;
+}
+#cont2 h2 img{
+    margin-right: 20px;
+}
+#cont2 p{
+    width: 30%;
+    margin: 2% 0 0 10%;
+}
+#content3{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+#tower2{
+    position: absolute;
+    left: 21.961932%;
+    bottom: 0;
+}
+#content3{
+    position: relative;
+}
+#cont3{
+    width: 62%;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+}
+#cont3 h2{
+    margin: 2% 0;
+}
+#cont3 h2 img{
+    margin-right: 20px;
+}
+#cont3 p{
+    width: 50%;
+    margin: 3% 0;
+}
+#content4{
+    width: 100%;
+    height: 100%;
+    background-color: #f7f8f8;
+    opacity: 0.8;
+    position: relative;
+}
+#tower2_2{
+    position: absolute;
+    top: 0;
+    left: 7.2%;
+}
+#tower3{
+    position: absolute;
+    right: 15%;
+    bottom: 0;
+}
+#cont4{
+    width: 30%;
+    position: absolute;
+    top: 10%;
+    left: 43%;
+}
+
+#cont4 p{
+    width: 70%;
+    margin: 3% 0;
+}
+#cont4 h2{
+    margin: 2% 0;
+}
+#cont4 h2 img{
+    margin-right: 20px;
+}
+#cont4>div>img:first-child{
+    margin-bottom: 15px;
+}
+#content5{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+#cont5{
+    position: absolute;
+    top: 25%;
+    left: 10%;
+}
+#cont5 h2{
+    margin: 2% 0;
+}
+#cont5 p{
+    width: 70%;
+    margin: 1% 0;
+}
+
+#tower3_3{
+    position: absolute;
+    top: 0;
+    right: 9%;
+}
+#footer{
+    margin-top: 10%;
+}
